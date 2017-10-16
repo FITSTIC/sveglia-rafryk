@@ -1,0 +1,6 @@
+C:\Users\raffaele.balzani\Desktop\progetti c#\AlamrClock\AlamrClock\obj\Debug\AlamrClock.csprojResolveAssemblyReference.cache
+C:\Users\raffaele.balzani\Desktop\progetti c#\AlamrClock\AlamrClock\bin\Debug\AlamrClock.exe.config
+C:\Users\raffaele.balzani\Desktop\progetti c#\AlamrClock\AlamrClock\bin\Debug\AlamrClock.exe
+C:\Users\raffaele.balzani\Desktop\progetti c#\AlamrClock\AlamrClock\bin\Debug\AlamrClock.pdb
+C:\Users\raffaele.balzani\Desktop\progetti c#\AlamrClock\AlamrClock\obj\Debug\AlamrClock.exe
+C:\Users\raffaele.balzani\Desktop\progetti c#\AlamrClock\AlamrClock\obj\Debug\AlamrClock.pdb
